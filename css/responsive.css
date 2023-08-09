@@ -1,0 +1,577 @@
+@media only screen and (max-width: 1200px) {
+    .sidenavs .closebtn {
+        display: block;
+        line-height: 25px;
+        right: 7px;
+        margin: 0;
+    }
+
+    .banner__Content.destination h1 {
+        font-size: 47px !important;
+    }
+
+    .last-mains a {
+        padding: 16px 30px !important;
+    }
+
+    ul.menu_navigation {
+        display: inline-block;
+        width: 100%;
+    }
+
+    ul.menu_navigation li,
+    ul.top-menu li {
+        padding: 0;
+        border-bottom: 1px solid #ddddddc7;
+    }
+
+    .sidenavs a {
+        margin: 0;
+    }
+
+    ul.menu-btns li {
+        padding: 10px 8px;
+        width: 100%;
+    }
+
+    li.become-member .btn {
+        margin-right: 0;
+    }
+
+    span.toggle_menu {
+        display: inline-block;
+        color: #ffffff;
+        font-size: 30px;
+        position: relative;
+        right: 0;
+        top: 0px;
+        margin-left: 15px;
+    }
+
+    .sidenavs {
+        width: 0;
+        position: fixed;
+        top: 0;
+        right: 0;
+        display: inline-block;
+        overflow-x: hidden;
+        background: #04090c;
+        flex-direction: column;
+        align-items: flex-start !important;
+        height: 100vh;
+        transition: all 0.3s;
+        z-index: 99;
+    }
+
+    .header_navigation {
+        justify-content: end;
+    }
+
+    ul.menu_navigation {
+        padding-top: 50px;
+        padding-left: 20px;
+    }
+
+    .last-mains ul {
+        padding-left: 20px;
+    }
+
+    .sidenavs a,
+    ul.top-menu a {
+        font-size: 16px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        white-space: nowrap;
+        color: #fff;
+    }
+
+    .sidenavs .menu-btns a {
+        display: block;
+        text-align: center;
+    }
+
+    .mid_menu_header {
+        padding: 20px 0 20px 0;
+    }
+
+    .top-brs.for-mob,
+    .menu-btns {
+        display: block;
+    }
+
+    .top-brs.for-desk {
+        display: none;
+    }
+
+    .top-brs .top-menu {
+        display: block;
+        border-bottom: 0;
+        padding: 40px 0 0;
+    }
+
+    li.lst-btn {
+        padding: 10px !important;
+        text-align: center;
+    }
+
+    li.lst-btn a {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0 30px;
+    }
+
+    .sidenavs a {
+        padding: 27px 9px;
+    }
+
+    .scrl-icons a {
+        width: 43px;
+        height: 43px;
+        margin-left: 0px !important;
+    }
+
+    .banner__Content h1 {
+        font-size: 50px;
+    }
+
+    .sidenavs a {
+        padding: 10px 10px;
+    }
+
+    .last-mains {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .destination-card.page h3 {
+        font-size: 23px;
+    }
+
+    .destination-card p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .banner__Content.destination h1 {
+        font-size: 40px !important;
+    }
+
+    .privacy__infos {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .destination-card p {
+        line-height: 23px;
+    }
+
+    .slovernia__destinations p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .privacy__details,
+    .Consentement__part h3 {
+        font-size: 23px;
+    }
+
+    .child__info h3 {
+        font-size: 20px;
+    }
+
+    .terms__section li {
+        font-size: 14px;
+    }
+
+    .footer-content img {
+        max-width: 200px;
+    }
+
+    .banner-section.Gradovi p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .content--text {
+        font-size: 16px;
+    }
+
+    .destination-card.page h3 {
+        font-size: 19px;
+    }
+
+    .slovernia__pictures.overlay {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+        margin: 0;
+    }
+
+
+}
+
+@media only screen and (max-width: 991px) {
+    .banner__Content h1 {
+        font-size: 40px;
+    }
+
+    .banner__Content p {
+        color: #fff;
+        line-height: 23px;
+        font-size: 15px;
+    }
+
+    .scrl-icons {
+        text-align: inherit;
+    }
+
+    .terms__section li {
+        line-height: 23px;
+    }
+
+    .space.blocks {
+        display: none;
+    }
+
+    .destination-card.page h3 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    [data-aos^=fade][data-aos^=fade] {
+        opacity: 1;
+        transition-property: opacity, transform;
+    }
+
+    .banner__Content h1 {
+        font-size: 35px;
+    }
+
+    .privacy__text h1 {
+        font-size: 42px;
+    }
+
+    .banner__Content.destination h1 {
+        font-size: 31px !important;
+    }
+
+    .destination-card p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .destination-card h3 {
+        font-size: 24px;
+    }
+
+    .banner__Content p {
+        line-height: 18px;
+        font-size: 13px;
+    }
+
+    .banner-section {
+        height: 500px;
+    }
+
+    .mid_menu_header {
+        padding: 10px 0 10px 0;
+    }
+
+    .content {
+        padding: 50px 0;
+    }
+
+    .content__section p {
+        font-size: 16px;
+        line-height: 25px
+    }
+
+    .scrl-icons {
+        text-align: start;
+    }
+
+    .destination__content {
+        padding: 50px 0px 50px 0;
+    }
+
+    .banner-section.destination {
+        height: 500px;
+    }
+
+    .visiting__content p {
+        max-width: 95%;
+    }
+
+    .content.bg {
+        padding: 0;
+    }
+
+    .banner-section.hotlei .banner__Content {
+        top: 55%;
+    }
+
+    .destination-card.page h3 {
+        font-size: 18px;
+        white-space: nowrap;
+    }
+
+    .destination__content .row.igralnice a.btn.btn-content {
+        font-size: 12px;
+        padding: 12px 18px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .destination-card {
+        padding-left: 0px;
+    }
+
+    .destination-card.left {
+        padding-right: 0;
+    }
+
+    .destination-card {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .slovernia__pictures img {
+        height: 300px;
+    }
+
+    .visiting__content p {
+        font-size: 16px;
+    }
+
+    .contact__banner h1 {
+        font-size: 45px;
+    }
+
+    .contact__banner {
+        height: 400px;
+    }
+
+    .privacy__section {
+        padding: 50px 0 ;
+    }
+
+    .content--bar {
+        padding: 30px 0;
+    }
+
+    .row.castel {
+        padding: 0;
+    }
+
+    .banner-section.Gradovi p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .banner-section.Gradovi {
+        height: 500px;
+    }
+
+    .destination-card.page {
+        max-width: none;
+    }
+
+    .slovernia__pictures.overlay img {
+        max-width: none;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .header.toggle .sidenavs {
+        width: 100%;
+    }
+
+    .banner__Content h1 {
+        font-size: 26px;
+    }
+
+    .banner__Content.destination h1 {
+        font-size: 22px !important;
+    }
+
+    .destination__content {
+        padding: 50px 0px 50px 0;
+    }
+
+    .banner__Content {
+        top: 60%;
+    }
+
+    .content__section p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .privacy__infos {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .privacy__content {
+        height: 500px;
+    }
+
+    .privacy__text h1 {
+        white-space: nowrap;
+    }
+
+    .privacy__infos {
+        font-weight: 500;
+    }
+
+    .footer-content p {
+        margin: 0 auto;
+        padding-bottom: 15px;
+    }
+
+    .scrl-icons {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .footer__about p {
+        font-size: 13px;
+        margin: 0 auto;
+        max-width: 50%;
+        padding: 12px 0;
+        line-height: 22px;
+    }
+
+    .last-mains a {
+        padding: 13px 36px !important;
+    }
+
+    .terms__content {
+        height: 500px;
+    }
+
+    .terms__section li {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .visiting__content p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    video {
+        margin-top: -10px;
+        height: 360px;
+    }
+
+    .banner-section.Gradovi p {
+        line-height: 18px;
+    }
+
+    .regency--cart .container {
+        padding: 0 10px;
+    }
+
+    .banner-section.hrana {
+        margin-top: 65px;
+    }
+
+    .hrana .banner__Content {
+        top: 50%;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .banner__Content h1 {
+        font-size: 24px;
+        white-space: nowrap;
+    }
+
+    .content__section.hoteli {
+        padding: 33px 0 0 0;
+    }
+
+    .bg .content__section p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    section.regency--cart {
+        padding-top: 0;
+    }
+
+    .regency--cart .container {
+        padding: 0;
+    }
+
+    .banner-section.hrana {
+        margin-top: 80px;
+    }
+
+    video {
+        margin-top: -10px;
+        height: auto;
+    }
+
+    .header_logo img {
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 395px) {
+    .banner__Content p {
+        line-height: 18px;
+        font-size: 12px;
+    }
+
+    .child__info h3 {
+        font-size: 17px;
+        line-height: 21px;
+    }
+
+    .privacy__details,
+    .Consentement__part h3 {
+        font-size: 17px;
+    }
+
+    .content__section p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .terms__section li {
+        line-height: 19px;
+    }
+
+    .terms__section li::before {
+        top: 6px;
+    }
+
+    .contact__banner h1 {
+        font-size: 29px;
+    }
+
+    .banner-section.Gradovi p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
