@@ -321,7 +321,7 @@ ul.top-menu a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 800px;
+    height: 700px;
     position: relative;
 }
 
@@ -442,7 +442,7 @@ ul.top-menu a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 800px;
+    height: 450px;
     position: relative;
 }
 
@@ -769,6 +769,7 @@ ul.top-menu a {
     background-position: center;
     background-attachment: fixed;
     position: relative;
+    height: 450px;
 }
 
 .attractions .banner__Content {
@@ -803,7 +804,7 @@ video::after {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 700px;
+    height: 450px;
     position: relative;
 }
 
