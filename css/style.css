@@ -580,8 +580,7 @@ ul.top-menu a {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 640px;
+    height: 450px;
     position: relative;
 }
 
@@ -638,8 +637,7 @@ ul.top-menu a {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 640px;
+    height:450px;
     position: relative;
 }
 
@@ -682,7 +680,7 @@ ul.top-menu a {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 640px;
+    height: 450px;
     position: relative;
 }
 
