@@ -960,6 +960,13 @@ video::-webkit-media-controls {
 }
 
 /* Igralnice-css */
+.banner-section igralnice{
+background-image: url(../images/banner-igralinice.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 450px;
+}
 .slovernia__pictures.overlay::after {
     display: none;
 }
