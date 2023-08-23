@@ -110,9 +110,8 @@ img {
 }
 
 /* Header css */
-.site-header .site-nav ul li a.active {
-    color: #FA8D25;
-    font-weight: 700;
+.menu_navigation a.menu.active {
+    color: #fa8d25;
 }
 header.header_section {
     position: absolute;
