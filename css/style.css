@@ -241,6 +241,7 @@ li.lst-btn a:last-child {
     line-height: 10px;
     font-family: 'Sarabun';
     text-decoration: none;
+    text-transform: capitalize;
 }
 
 .footer__about p {
