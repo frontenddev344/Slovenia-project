@@ -113,6 +113,7 @@ img {
 .menu_navigation a.menu.active {
     color: #fa8d25;
 }
+
 header.header_section {
     position: absolute;
     display: block;
@@ -165,7 +166,7 @@ header.header_section {
 
 .header.toggle .sidenavs {
     width: 50%;
-	cursor:pointer;
+    cursor: pointer;
 }
 
 .sidenavs {
@@ -638,7 +639,7 @@ ul.top-menu a {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height:450px;
+    height: 450px;
     position: relative;
 }
 
@@ -749,9 +750,11 @@ ul.top-menu a {
     background-image: none;
     height: auto;
 }
-.banner-section.hotlei::after{
+
+.banner-section.hotlei::after {
     content: none;
 }
+
 video::after {
     content: '';
     position: absolute;
@@ -948,6 +951,7 @@ a.btnBar:hover {
     background-image: none;
     height: auto;
 }
+
 .banner-section.hrana::after {
     content: none;
 }
@@ -961,13 +965,14 @@ video::-webkit-media-controls {
 }
 
 /* Igralnice-css */
-.banner-section.igralnice{
-background-image: url(../images/banner-igralinice.webp);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-height: 450px;
+.banner-section.igralnice {
+    background-image: url(../images/banner-igralinice.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
 }
+
 .slovernia__pictures.overlay::after {
     display: none;
 }
