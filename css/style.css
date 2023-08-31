@@ -233,6 +233,7 @@ li.lst-btn a:last-child {
     font-size: 25px;
     line-height: 30px;
     font-family: 'Sarabun', sans-serif;
+    text-transform: capitalize;
 }
 
 .footer__lists li a {
@@ -241,7 +242,6 @@ li.lst-btn a:last-child {
     line-height: 10px;
     font-family: 'Sarabun';
     text-decoration: none;
-    text-transform: capitalize;
 }
 
 .footer__about p {
