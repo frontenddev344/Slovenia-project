@@ -307,9 +307,7 @@
         padding: 50px 0px 50px 0;
     }
 
-    .banner-section.destination {
-        height: 450px;
-    }
+  
 
     .visiting__content p {
         max-width: 95%;
@@ -360,10 +358,6 @@
         font-size: 45px;
     }
 
-    .contact__banner {
-        height: 450px;
-    }
-
     .privacy__section {
         padding: 50px 0 ;
     }
@@ -379,10 +373,6 @@
     .banner-section.Gradovi p {
         font-size: 13px;
         line-height: 23px;
-    }
-
-    .banner-section.Gradovi {
-        height: 450px;
     }
 
     .destination-card.page {
@@ -490,6 +480,21 @@
 
     .hrana .banner__Content {
         top: 50%;
+    }
+    .banner-section.destination {
+        height: 350px;
+    }
+    .banner-section.attractions {
+        height: 350px;
+    }
+    .banner-section.igralnice {
+        height: 350px;
+    }
+    .banner-section.Gradovi {
+        height: 350px;
+    }
+    .contact__banner {
+        height: 350px;
     }
 }
 
