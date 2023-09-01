@@ -240,6 +240,7 @@ li.lst-btn a:last-child {
     font-family: 'Sarabun';
     text-decoration: none;
 }
+
 .footer__lists li a:hover {
     color: #fa8d25;
 }
@@ -317,8 +318,9 @@ ul.top-menu a {
 .scrl-icons {
     margin-top: 20px;
 }
+
 .scrl-icons a {
-text-decoration: none;
+    text-decoration: none;
 }
 
 .banner-section {
@@ -580,8 +582,8 @@ text-decoration: none;
 
 /* Privacy-css*/
 .privacy__content {
-    padding: 100px 0 0 0 ;
-    background:#ffffff;
+    padding: 100px 0 0 0;
+    background: #ffffff;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -600,7 +602,7 @@ text-decoration: none;
     left: 50%;
     color: #fa8d25;
     font-weight: 600;
-      padding-top: 50px;
+    padding-top: 50px;
 }
 
 .privacy__details .privacy__logs,
@@ -759,10 +761,12 @@ text-decoration: none;
 .banner-section.hotlei::after {
     content: none;
 }
+
 video {
     width: 100%;
     height: 100%;
 }
+
 video::after {
     content: '';
     position: absolute;
