@@ -240,6 +240,9 @@ li.lst-btn a:last-child {
     font-family: 'Sarabun';
     text-decoration: none;
 }
+.footer__lists li a:hover {
+    color: #fa8d25;
+}
 
 .footer__about p {
     color: #fff;
@@ -860,6 +863,7 @@ video::after {
     font-weight: 500;
     font-size: 16px;
     text-transform: capitalize;
+    text-decoration: none;
 }
 
 a.btnBar:hover {
