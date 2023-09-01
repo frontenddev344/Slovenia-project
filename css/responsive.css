@@ -489,6 +489,12 @@
     .banner-section.destination {
         height: 350px;
     }
+    .banner-section.hotlei{
+        height: 350px;
+    }
+    .banner-section.hrana{
+        height: 350px;
+    }
     .banner-section.attractions {
         height: 350px;
     }

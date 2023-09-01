@@ -763,9 +763,14 @@ ul.top-menu a {
 }
 
 /* Hotlei-css*/
+
 .banner-section.hotlei {
-    background-image: none;
-    height: auto;
+    background-image: url(../images/hotelibanner.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 500px;
 }
 
 .banner-section.hotlei::after {
@@ -971,8 +976,12 @@ a.btnBar:hover {
 
 /* hrana-css */
 .banner-section.hrana {
-    background-image: none;
-    height: auto;
+    background-image: url(../images/hrana-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 500px;
 }
 
 .banner-section.hrana::after {
