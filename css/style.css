@@ -574,13 +574,14 @@ ul.top-menu a {
 
 /* Privacy-css*/
 .privacy__content {
-    padding: 100px 0;
-    background-image: url(../images/privacybanner.jpeg);
+    padding: 100px 0 0 0 ;
+    background:#ffffff;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 450px;
+    height: auto;
     position: relative;
+    margin-top: 92px;
 }
 
 .privacy__text h1 {
@@ -593,6 +594,7 @@ ul.top-menu a {
     left: 50%;
     color: #fa8d25;
     font-weight: 600;
+      padding-top: 50px;
 }
 
 .privacy__details .privacy__logs,
@@ -631,13 +633,13 @@ ul.top-menu a {
 /* terms-conditions-css*/
 
 .terms__content {
-    padding: 100px 0;
-    background-image: url(../images/termsbg.webp);
+    padding: 100px 0 0 0;
+    background: #ffffff;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 450px;
     position: relative;
+    margin-top: 92px;
 }
 
 .terms__section li {
