@@ -454,7 +454,9 @@ ul.top-menu a {
 }
 
 /* destination-css */
+
 .destination__content {
+    padding: 25px 0px 50px 0;
     overflow: hidden;
 }
 
@@ -501,9 +503,6 @@ ul.top-menu a {
     transform: scale(1);
 }
 
-.destination__content {
-    padding: 100px 0px 50px 0;
-}
 
 .content.bg {
     padding: 30px 0;
@@ -989,6 +988,15 @@ video::-webkit-media-controls {
 }
 
 /* Igralnice-css */
+.igralnice__subtitle {
+    padding: 20px 0 0 0;
+}
+.igr__subtitle h2 {
+    color: orange;
+    font-size: 50px;
+    font-family: 'PT Serif';
+    text-align: center;
+}
 .banner-section.igralnice {
     background-image: url(../images/banner-igralinice.webp);
     background-repeat: no-repeat;

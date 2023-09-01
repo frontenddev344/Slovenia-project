@@ -312,12 +312,6 @@
         text-align: start;
     }
 
-    .destination__content {
-        padding: 50px 0px 50px 0;
-    }
-
-  
-
     .visiting__content p {
         max-width: 95%;
     }
@@ -410,10 +404,6 @@
     }
     .banner__Content.destination h1 {
         font-size: 22px !important;
-    }
-
-    .destination__content {
-        padding: 50px 0px 50px 0;
     }
 
     .banner__Content {
