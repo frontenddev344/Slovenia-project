@@ -426,9 +426,6 @@
         text-align: justify;
     }
 
-    .privacy__content {
-        height: 450px;
-    }
 
     .privacy__text h1 {
         white-space: nowrap;
@@ -462,10 +459,6 @@
 
     .last-mains a {
         padding: 13px 36px !important;
-    }
-
-    .terms__content {
-        height: 450px;
     }
 
     .terms__section li {
