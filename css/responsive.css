@@ -9,7 +9,12 @@
     .banner__Content.destination h1 {
         font-size: 47px !important;
     }
-
+    .banner__Content h1 {
+        font-size: 60px;
+    }
+    .banner-section.hotlei h1 {
+        font-size: 40px;
+    }
     .last-mains a {
         padding: 16px 30px !important;
     }
@@ -224,9 +229,12 @@
 
 @media only screen and (max-width: 991px) {
     .banner__Content h1 {
-        font-size: 40px;
+        font-size: 39px;
     }
-
+    .banner-section.hotlei h1 {
+        font-size: 35px;
+        white-space: nowrap;
+    }
     .banner__Content p {
         color: #fff;
         line-height: 23px;
@@ -258,6 +266,7 @@
 
     .banner__Content h1 {
         font-size: 35px;
+        white-space: nowrap;
     }
 
     .privacy__text h1 {
@@ -353,8 +362,8 @@
 
     .contact__banner h1 {
         font-size: 45px;
+        white-space: nowrap;
     }
-
     .privacy__section {
         padding: 50px 0 ;
     }
@@ -383,7 +392,7 @@
         padding: 0;
     }
     .footer__lists h3 {
-display: none;
+   display: none;
     }
 }
 
@@ -395,7 +404,10 @@ display: none;
     .banner__Content h1 {
         font-size: 26px;
     }
-
+    .banner-section.hotlei h1 {
+        font-size: 24px;
+         white-space: normal; 
+    }
     .banner__Content.destination h1 {
         font-size: 22px !important;
     }
