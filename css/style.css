@@ -774,7 +774,7 @@ video::after {
 .banner-section.Gradovi {
     background-image: url(../images/Gradovibanner.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: inherit;
     background-size: cover;
     height: 500px;
     position: relative;
