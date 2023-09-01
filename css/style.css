@@ -19,11 +19,7 @@ body {
 
 }
 
-span,
-a,
-input,
-button,
-li {}
+
 
 ul {
     list-style: none;
@@ -47,7 +43,7 @@ textarea {
     padding: 0;
 }
 
-html {}
+
 
 img,
 fieldset {
@@ -312,7 +308,7 @@ ul.top-menu a {
     background: #fa8d25;
     font-size: 22px;
     margin: 0 20px;
-    text-decoration: none;
+    text-decoration: non;
 }
 
 .scrl-icons {
