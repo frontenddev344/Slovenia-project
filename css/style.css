@@ -314,6 +314,9 @@ ul.top-menu a {
 .scrl-icons {
     margin-top: 20px;
 }
+.scrl-icons a {
+text-decoration: none;
+}
 
 .banner-section {
     background-image: url(../images/bannerhome.jpg);
@@ -437,7 +440,7 @@ ul.top-menu a {
 }
 
 .banner-section.destination {
-    background-image: url(../images/destinationcardbg.jpeg);
+    background-image: url(../images/destinationcardbg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
