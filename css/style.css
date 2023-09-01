@@ -505,8 +505,8 @@ ul.top-menu a {
     padding: 100px 0px 50px 0;
 }
 
-.content__section {
-    padding:0;
+.content.bg {
+    padding: 30px 0;
 }
 
 .slovernia__pictures img {
@@ -698,9 +698,6 @@ ul.top-menu a {
 }
 
 /*contactus--css */
-.content.bg {
-    padding: 0;
-}
 
 .contact__banner {
     background-image: url("../images/contactbanner.jpg");
