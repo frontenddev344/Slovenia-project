@@ -447,7 +447,7 @@ text-decoration: none;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 450px;
+    height: 500px;
     position: relative;
 }
 
@@ -691,7 +691,7 @@ text-decoration: none;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 450px;
+    height: 500px;
     position: relative;
 }
 
@@ -736,7 +736,7 @@ text-decoration: none;
     background-size: cover;
     background-position: center;
     position: relative;
-    height: 450px;
+    height: 500px;
 }
 
 .attractions .banner__Content {
@@ -776,7 +776,7 @@ video::after {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 450px;
+    height: 500px;
     position: relative;
 }
 
@@ -979,7 +979,7 @@ video::-webkit-media-controls {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 450px;
+    height: 500px;
 }
 
 .slovernia__pictures.overlay::after {
