@@ -215,6 +215,7 @@ li.lst-btn a:last-child {
     background: #041827;
     padding: 80px 0;
 }
+
 .footer__about {
     padding: 20px 0;
 }
@@ -229,20 +230,24 @@ li.lst-btn a:last-child {
     line-height: 30px;
     font-family: 'Sarabun', sans-serif;
 }
+
 .footer__lists {
     padding: 20px 0;
 }
+
 .footer__lists li {
     color: #fa8d25;
     font-size: 25px;
     line-height: 30px;
     font-family: 'Sarabun', sans-serif;
     text-transform: capitalize;
-    
+
 }
+
 .footer__lists h3 {
     color: #041827;
 }
+
 .footer__lists li a {
     color: #ffffff;
     font-size: 19px;
@@ -324,6 +329,7 @@ ul.top-menu a {
     margin: 0 20px;
     text-decoration: non;
 }
+
 .scrl-icons a:hover {
     background: #fff;
     color: orange;
@@ -350,8 +356,9 @@ ul.top-menu a {
     content: '';
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 50%);
+    background: #00000052;
 }
+
 
 .banner__Content {
     position: absolute;
@@ -469,9 +476,7 @@ ul.top-menu a {
     position: relative;
 }
 
-.banner-section.destination::after {
-    content: none;
-}
+
 
 .destination-card {
     display: flex;
@@ -773,22 +778,6 @@ ul.top-menu a {
     height: 500px;
 }
 
-.banner-section.hotlei::after {
-    content: none;
-}
-
-video {
-    width: 100%;
-    height: 100%;
-}
-
-video::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 30%);
-}
-
 /* Gradovi-css*/
 .banner-section.Gradovi {
     background-image: url(../images/Gradovibanner.jpg);
@@ -984,14 +973,6 @@ a.btnBar:hover {
     height: 500px;
 }
 
-.banner-section.hrana::after {
-    content: none;
-}
-
-video::-webkit-media-controls {
-    display: none;
-}
-
 .img--bar img {
     width: 100%;
 }
@@ -1000,12 +981,14 @@ video::-webkit-media-controls {
 .igralnice__subtitle {
     padding: 20px 0 0 0;
 }
+
 .igr__subtitle h2 {
     color: orange;
     font-size: 50px;
     font-family: 'PT Serif';
     text-align: center;
 }
+
 .banner-section.igralnice {
     background-image: url(../images/banner-igralinice.webp);
     background-repeat: no-repeat;
@@ -1014,9 +997,7 @@ video::-webkit-media-controls {
     height: 500px;
 }
 
-.slovernia__pictures.overlay::after {
-    display: none;
-}
+
 
 .destination__content .row.igralnice a.btn.btn-content {
     box-shadow: #112d2a 8px 7px;
