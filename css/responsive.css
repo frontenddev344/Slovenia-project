@@ -382,6 +382,12 @@
     .slovernia__pictures.overlay img {
         max-width: none;
     }
+    .footer__lists{
+        padding: 0;
+    }
+    .footer__lists h3 {
+display: none;
+    }
 }
 
 @media only screen and (max-width: 575px) {
